@@ -1,0 +1,14 @@
+{
+  "name": "婚活トークラボ",
+  "short_name": "トークラボ",
+  "description": "会話の引き出しを増やして、素敵な出会いへ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a1423",
+  "theme_color": "#1a1423",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
